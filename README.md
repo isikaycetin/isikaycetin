@@ -1,4 +1,4 @@
- [![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
+![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
 <h1 align="center">Hi 👋, I'm Işıkay ÇETİN</h1>
 <h3 align="center">Curious, ambitious software engineer</h3>
 
