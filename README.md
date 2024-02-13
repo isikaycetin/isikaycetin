@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Ftr%2Fsearch%2Fprogramlama-dili&psig=AOvVaw12HuXXc0GynWbXlA_Hch84&ust=1707927458418000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCJjujbqIQDFQAAAAAdAAAAABAE)
+ [![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
 <h1 align="center">Hi 👋, I'm Işıkay ÇETİN</h1>
 <h3 align="center">Curious, ambitious software engineer</h3>
 
